@@ -1,5 +1,5 @@
 
-job('dashing/dashing-dashboaord-build') {
+job('dashing/dashing-dashboard-build') {
     /** require tag docker */
     scm {
 
